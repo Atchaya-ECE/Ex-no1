@@ -61,12 +61,14 @@ END
 |         1200                    |
 
 #### Manual Calculations
+![WhatsApp Image 2026-02-09 at 8 46 00 AM](https://github.com/user-attachments/assets/e2721889-c0de-4192-bb75-063002427acb)
 
 (Add your calculation here)
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+![WhatsApp Image 2026-02-07 at 9 34 46 AM](https://github.com/user-attachments/assets/15ec6fdc-c06c-4bc5-a346-18df90037c0b)
 
 ## 2. SUBTRACTION
 
@@ -112,6 +114,7 @@ END
 |                         |                          |
 
 #### Manual Calculations
+![WhatsApp Image 2026-02-09 at 8 46 24 AM](https://github.com/user-attachments/assets/b5a90e54-96e0-4f95-859c-814a1dd24e40)
 
 (Add your calculation here)
 
@@ -119,6 +122,7 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![WhatsApp Image 2026-02-07 at 9 34 18 AM (1)](https://github.com/user-attachments/assets/6afab344-dc27-4309-bdf1-deb1cfe96a3a)
 
 ## 3. MULTIPLICATION
 
@@ -161,12 +165,14 @@ END
 |                         |                          |
 
 #### Manual Calculations
+![WhatsApp Image 2026-02-09 at 8 46 47 AM](https://github.com/user-attachments/assets/3c49b1f2-5d70-4182-9385-c10a034c032c)
 
 (Add your calculation here)
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![WhatsApp Image 2026-02-07 at 9 34 18 AM (2)](https://github.com/user-attachments/assets/0eb05bc8-596d-42a1-9d1e-7d1e0c52cb43)
 
 ## 4. DIVISION
 
@@ -206,15 +212,18 @@ END
 |                         |                          |
 
 #### Manual Calculations
+![WhatsApp Image 2026-02-09 at 8 47 15 AM](https://github.com/user-attachments/assets/9d019e91-e0e2-4f18-b7d8-2e5058f581c7)
 
 (Add your calculation here)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+![WhatsApp Image 2026-02-07 at 9 34 18 AM](https://github.com/user-attachments/assets/db6a9c59-4523-46a9-a492-d4a8a05fd386)
 
 
 
 ## RESULT
+![WhatsApp Image 2026-02-09 at 8 47 47 AM](https://github.com/user-attachments/assets/c4dc98e7-b701-4134-9c1b-58a8577b8a48)
 
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
 
