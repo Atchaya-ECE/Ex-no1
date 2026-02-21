@@ -162,6 +162,8 @@ END
 
 ---
 
+
+
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 ![WhatsApp Image 2026-02-07 at 9 34 18 AM (2)](https://github.com/user-attachments/assets/0eb05bc8-596d-42a1-9d1e-7d1e0c52cb43)
 
@@ -212,7 +214,7 @@ END
 ![WhatsApp Image 2026-02-07 at 9 34 18 AM](https://github.com/user-attachments/assets/db6a9c59-4523-46a9-a492-d4a8a05fd386)
 
 ## RESULT
-![WhatsApp Image 2026-02-09 at 8 47 47 AM](https://github.com/user-attachments/assets/c4dc98e7-b701-4134-9c1b-58a8577b8a48)
+
 
 
 
