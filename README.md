@@ -56,14 +56,13 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
+|     1200 :  12          |      1204 : 24           |
+|     1201 :  34          |      1205 : 68           | 
+|     1202 :  12          |      1206 : 00           |
+|     1203 :  34          |                          |
 
 #### Manual Calculations
-![WhatsApp Image 2026-02-09 at 8 46 00 AM](https://github.com/user-attachments/assets/e2721889-c0de-4192-bb75-063002427acb)
-
-(Add your calculation here)
+![WhatsApp Image 2026-02-21 at 8 25 26 AM](https://github.com/user-attachments/assets/7773fd92-a47a-40ca-b150-63b4a6089725)
 
 ---
 
@@ -114,9 +113,7 @@ END
 |                         |                          |
 
 #### Manual Calculations
-![WhatsApp Image 2026-02-09 at 8 46 24 AM](https://github.com/user-attachments/assets/b5a90e54-96e0-4f95-859c-814a1dd24e40)
-
-(Add your calculation here)
+![WhatsApp Image 2026-02-21 at 8 25 26 AM (1)](https://github.com/user-attachments/assets/8a165a3f-2b6f-4581-a914-0a1e1605bb5e)
 
 ---
 
@@ -165,9 +162,8 @@ END
 |                         |                          |
 
 #### Manual Calculations
-![WhatsApp Image 2026-02-09 at 8 46 47 AM](https://github.com/user-attachments/assets/3c49b1f2-5d70-4182-9385-c10a034c032c)
+![WhatsApp Image 2026-02-21 at 8 25 27 AM](https://github.com/user-attachments/assets/70eeb52c-ad28-4f3a-833d-c7cfdefc6e92)
 
-(Add your calculation here)
 
 ---
 
@@ -212,15 +208,12 @@ END
 |                         |                          |
 
 #### Manual Calculations
-![WhatsApp Image 2026-02-09 at 8 47 15 AM](https://github.com/user-attachments/assets/9d019e91-e0e2-4f18-b7d8-2e5058f581c7)
-
-(Add your calculation here)
+![WhatsApp Image 2026-02-21 at 8 25 27 AM (1)](https://github.com/user-attachments/assets/1e4bc12e-b427-44ff-8343-28f43f3bb6f6)
 
 ---
+
 ## OUTPUT FROM MASM SOFTWARE
 ![WhatsApp Image 2026-02-07 at 9 34 18 AM](https://github.com/user-attachments/assets/db6a9c59-4523-46a9-a492-d4a8a05fd386)
-
-
 
 ## RESULT
 ![WhatsApp Image 2026-02-09 at 8 47 47 AM](https://github.com/user-attachments/assets/c4dc98e7-b701-4134-9c1b-58a8577b8a48)
