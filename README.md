@@ -2,13 +2,11 @@
 # 8086 Assembly Language Programs for Arithmetic Operations
 
 ## AIM
-
 To write and execute Assembly Language Programs to perform arithmetic operations for the 8086 microprocessor.
 
 ---
 
 ## APPARATUS REQUIRED
-
 * Personal Computer with MASM Software
 
 ---
@@ -16,7 +14,6 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 ## 1. ADDITION
 
 #### Algorithm
-
 1. Initialize memory location in HL register.
 2. Store 1st data.
 3. Increment HL to enter 2nd data.
@@ -32,7 +29,6 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 #### Program
-
 ```asm
 CODE SEGMENT
 ASSUME CS:CODE, DS:CODE
@@ -72,7 +68,6 @@ END
 ## 2. SUBTRACTION
 
 #### Algorithm
-
 1. Initialize memory and store 1st data.
 2. Increment to get 2nd data.
 3. Move 2nd data to accumulator.
@@ -80,7 +75,6 @@ END
 5. Store result.
 
 ## FLOWCHART
-
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
 
 
@@ -110,7 +104,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     1200 :  12          |      1204 : 00           |
+|     1201 :  34          |      1205 : 00           | 
+|     1202 :  12          |      1206 : 00           |
+|     1203 :  34          |                          |
 
 #### Manual Calculations
 ![WhatsApp Image 2026-02-21 at 8 25 26 AM (1)](https://github.com/user-attachments/assets/8a165a3f-2b6f-4581-a914-0a1e1605bb5e)
@@ -124,20 +121,15 @@ END
 ## 3. MULTIPLICATION
 
 #### Algorithm
-
 1. Initialize memory and store operands.
 2. Move operands to registers.
 3. Multiply.
 4. Store result.
 
-##FLOWCHART
-
+#### FLOWCHART
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
 
-
-
 #### Program
-
 ```asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
@@ -159,7 +151,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     1200 :  12          |      1204 : 44           |
+|     1201 :  34          |      1205 : 51           | 
+|     1202 :  12          |      1206 : 97           |
+|     1203 :  34          |      1206 : 0A           |
 
 #### Manual Calculations
 ![WhatsApp Image 2026-02-21 at 8 25 27 AM](https://github.com/user-attachments/assets/70eeb52c-ad28-4f3a-833d-c7cfdefc6e92)
@@ -173,17 +168,15 @@ END
 ## 4. DIVISION
 
 #### Algorithm
-
 1. Load memory location of operands.
 2. Perform division.
 3. Store result.
 
-   ## FLOWCHART
+## FLOWCHART
 <img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
 
 
 #### Program
-
 ```asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
@@ -205,7 +198,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     1200 :  12          |      1204 : 01           |
+|     1201 :  34          |      1205 : 00           | 
+|     1202 :  12          |                          |
+|     1203 :  34          |                          |
 
 #### Manual Calculations
 ![WhatsApp Image 2026-02-21 at 8 25 27 AM (1)](https://github.com/user-attachments/assets/1e4bc12e-b427-44ff-8343-28f43f3bb6f6)
